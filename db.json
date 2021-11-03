@@ -1,0 +1,35 @@
+{
+    "games": {
+        "code": {
+            "wm0y": {
+
+                "_id": "6182bcfe95b0c4224eeb2281",
+                "modules": [{
+                        "connectycubeRoomId": "6182bcfd3d6006001980dfec",
+                        "_id": "6182bcfe95b0c4224eeb2282"
+                    },
+                    {
+                        "connectycubeRoomId": "6182bcfde2764c00124e9796",
+                        "_id": "6182bcfe95b0c4224eeb2283"
+                    },
+                    {
+                        "connectycubeRoomId": "6182bcfdac7ad800348f008a",
+                        "_id": "6182bcfe95b0c4224eeb2284"
+                    },
+                    {
+                        "connectycubeRoomId": "6182bcfd5bad1a0028a313ef",
+                        "_id": "6182bcfe95b0c4224eeb2285"
+                    },
+                    {
+                        "connectycubeRoomId": "6182bcfdac7ad800348f0089",
+                        "_id": "6182bcfe95b0c4224eeb2286"
+                    }
+                ],
+                "intermoduleChat": "6182bcfe3d6006001980dfef",
+                "startDateTime": 9999999999999,
+                "code": "wm0y",
+                "__v": 0
+            }
+        }
+    }
+}
